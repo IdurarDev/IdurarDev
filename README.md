@@ -1,6 +1,7 @@
-[![Idurar Dev Hamid Stats](https://github-readme-stats.vercel.app/api?username=IdurarDev&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark)](https://github.com/IdurarDev)
+[![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdurarDev)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Idurar Dev Hamid Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=IdurarDev&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark)](https://wakatime.com/@IdurarDev)
+
+[![Idurar Dev Hamid Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IdurarDev&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark)](https://wakatime.com/@IdurarDev/github-readme-stats)
 
 [![Idurar Dev Hamid TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdurarDev&langs_count=10&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark)](https://github.com/IdurarDev)
 
@@ -18,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
