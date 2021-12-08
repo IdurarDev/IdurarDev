@@ -1,4 +1,4 @@
-[![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdurarDev)](https://github.com/IdurarDev&show_icons=true/github-readme-stats)
+[![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdurarDev&show_icons=true)](https://github.com/IdurarDev/github-readme-stats)
 
 
 [![Idurar Dev Hamid Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IdurarDev&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark)](https://wakatime.com/@IdurarDev/github-readme-stats)
