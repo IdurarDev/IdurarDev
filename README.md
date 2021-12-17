@@ -1,8 +1,6 @@
 # Hello everyone.
 
-## My name is Hamid, i am 43 years.
-
-### I am developer Full-Stack (Html, Css, React.js, Node.js). 
+### My name is Hamid, i am 43 years. I am developer Full-Stack (Html, Css, React.js, Node.js). 
 ### I am currently in training web application design - mobile web 
 
 
