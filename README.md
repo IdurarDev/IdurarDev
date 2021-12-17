@@ -1,3 +1,13 @@
+# Hello everyone,
+
+## My name is Hamid, i am 43 years.
+
+### I am developer Full-Stack (Html, Css, React.js, Node.js). I am currently in training web application design - mobile web 
+
+
+
+
+
 [![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdurarDev&show_icons=true&theme=algolia)](https://github.com/IdurarDev/github-readme-stats)
 
 
