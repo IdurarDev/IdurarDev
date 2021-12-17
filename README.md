@@ -1,4 +1,4 @@
-# Hello everyone,
+# Hello everyone.
 
 ## My name is Hamid, i am 43 years.
 
