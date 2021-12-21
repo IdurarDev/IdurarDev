@@ -14,6 +14,7 @@
 
 [![Idurar Dev Hamid TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdurarDev&langs_count=10&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark)](https://github.com/IdurarDev)
 
+## Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IdurarDev&theme=onestar&row=2&column=4)](https://github.com/IdurarDev)
 <!--
