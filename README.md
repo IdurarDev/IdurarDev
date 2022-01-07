@@ -1,6 +1,6 @@
 # Hello everyone.
 
-My name is Hamid. I am developer Full-Stack.
+My name is Hamid, I am developer Full-Stack.
 I am currently in training web application design - mobile web.
 
 Languages and Tools:
