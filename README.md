@@ -15,20 +15,15 @@ Languages and Tools:
 
 ---
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> 
--->
-
-[![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdurarDev&show_icons=true&theme=algolia)](https://github.com/IdurarDev/github-readme-stats)
-
+<section>
+<a href="https://github.com/IdurarDev/"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=IdurarDev&show_icons=true&include_all_commits=true&theme=algolia" alt="Hamid's GitHub stats"/></a>
+<a href="https://github.com/IdurarDev/"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdurarDev&layout=compact&langs_count=10&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark" /></a>
+</section>
+  
 ---
-
-[![Idurar Dev Hamid TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdurarDev&layout=compact&langs_count=10&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark)](https://github.com/IdurarDev)
-
----
-
-[![Idurar Dev Hamid Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IdurarDev&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](https://wakatime.com/@IdurarDev)
-
+<a href="https://wakatime.com/@IdurarDev"><img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IdurarDev&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/></a>
+  
+<!-- [![Idurar Dev Hamid Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IdurarDev&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](https://wakatime.com/@IdurarDev) -->
 
 ### Github Profile Trophy
 
