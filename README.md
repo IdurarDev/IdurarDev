@@ -31,7 +31,7 @@ Languages and Tools:
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=LinkedIn&labelColor=silver&logo=linkedin&logoColor=blue&message=hamid-berkaine&color=blue&link=https://linkedin.com/in/hamid-berkaine" alt="LinkedIn" />
 </a>
 <a href="https://twitter.com/hamid_idurar" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Twitter&labelColor=silver&logo=twitter&logoColor=blue&message=hamid_idurar&color=blue&link=https://twitter.com/hamid_idurar" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Twitter&labelColor=silver&logo=twitter&logoColor=blue&message=hamid_idurar&color=blue&link=https://twitter.com/hamid_idurar" alt="Twitter"/>
 </a>
 <a href="https://github.com/IdurarDev/">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&labelColor=silver&logo=github&logoColor=black&message=IdurarDev&color=black&link=https://github.com/IdurarDev" alt="GitHub" />
