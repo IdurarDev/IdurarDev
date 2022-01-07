@@ -22,7 +22,7 @@ Languages and Tools:
 ---
 <section align="center">
 
-<a href="https://wakatime.com/@IdurarDev"><img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IdurarDev&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/></a>
+<a href="https://wakatime.com/@IdurarDev"><img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IdurarDev&layout=compact&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/></a>
 
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=IdurarDev&hide_border=true&theme=algolia)
