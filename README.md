@@ -23,12 +23,20 @@ Languages and Tools:
 
 <a href="https://wakatime.com/@IdurarDev"><img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IdurarDev&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/></a>
 
-My networks
+### Connect with me 
+
 ---
-<section>
-<a href="https://www.linkedin.com/in/hamid-berkaine/" target="_blank"><img height="75" width="100" src="https://i1.wp.com/sguru.org/wp-content/uploads/2018/02/Linkedin-Transparent-Icon.png?ssl=1" /></a>
-<a href="https://twitter.com/hamid_idurar" target="_blank"><img height="65" width="100" src="https://i1.wp.com/sguru.org/wp-content/uploads/2018/02/twiiter.png?ssl=1" /></a>
-</section>
+
+<a href="https://www.linkedin.com/in/hamid-berkaine/" target="_blank">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=LinkedIn&labelColor=silver&logo=linkedin&logoColor=blue&message=hamid-berkaine&color=blue&link=https://linkedin.com/in/hamid-berkaine" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/hamid_idurar" target="_blank">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Twitter&labelColor=silver&logo=twitter&logoColor=blue&message=hamid_idurar&color=blue&link=https://twitter.com/hamid_idurar" />
+</a>
+<a href="https://github.com/IdurarDev/">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&labelColor=silver&logo=github&logoColor=black&message=G1Joshi&color=black&link=https://github.com/G1Joshi" alt="GitHub" />
+</a>
+
 
 
 
