@@ -23,6 +23,17 @@ Languages and Tools:
 
 <a href="https://wakatime.com/@IdurarDev"><img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IdurarDev&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/></a>
 
+
+Github Profile Trophy
+---
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=IdurarDev&theme=onestar&row=2&column=3)](https://github.com/IdurarDev)
+
+![Activity](https://activity-graph.herokuapp.com/graph?username=IdurarDev&area=true&hide_border=true&theme=dracula)
+  
+</div>
+
 ### Connect with me 
 
 ---
@@ -36,11 +47,3 @@ Languages and Tools:
 <a href="https://github.com/IdurarDev/">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&labelColor=silver&logo=github&logoColor=black&message=IdurarDev&color=black&link=https://github.com/IdurarDev" alt="GitHub" />
 </a>
-
-
-
-
-Github Profile Trophy
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=IdurarDev&theme=onestar&row=2&column=3)](https://github.com/IdurarDev)
