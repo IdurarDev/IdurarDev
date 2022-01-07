@@ -14,25 +14,30 @@ Languages and Tools:
 
 ---
 
-<section>
+<section align="center">
 <a href="https://github.com/IdurarDev/"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=IdurarDev&show_icons=true&include_all_commits=true&theme=algolia" alt="Hamid's GitHub stats"/></a>
 <a href="https://github.com/IdurarDev/"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdurarDev&layout=compact&langs_count=10&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark" /></a>
 </section>
   
 ---
+<section align="center">
 
 <a href="https://wakatime.com/@IdurarDev"><img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IdurarDev&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/></a>
 
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=IdurarDev&hide_border=true&theme=algolia)
+
+</section>
+  
 Github Profile Trophy
 ---
-<div align="center">
+<section align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=IdurarDev&theme=onestar&row=2&column=3)](https://github.com/IdurarDev)
 
 ![Activity](https://activity-graph.herokuapp.com/graph?username=IdurarDev&area=true&hide_border=true&theme=dracula)
   
-</div>
+</section>
 
 ### Connect with me 
 
