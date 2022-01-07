@@ -27,8 +27,8 @@ Languages and Tools:
 
 ---
 
-<a href="https://www.linkedin.com/in/hamid-berkaine/" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=LinkedIn&labelColor=silver&logo=linkedin&logoColor=blue&message=hamid-berkaine&color=blue&link=https://linkedin.com/in/hamid-berkaine" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/hamiddev78/" target="_blank">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=LinkedIn&labelColor=silver&logo=linkedin&logoColor=blue&message=hamiddev78&color=blue&link=https://linkedin.com/in/hamiddev78" alt="LinkedIn" />
 </a>
 <a href="https://twitter.com/hamid_idurar" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Twitter&labelColor=silver&logo=twitter&logoColor=blue&message=hamid_idurar&color=blue&link=https://twitter.com/hamid_idurar" alt="Twitter"/>
