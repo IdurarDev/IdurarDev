@@ -3,7 +3,7 @@
 My name is Hamid, I am developer Full-Stack.
 I am currently in training web application design - mobile web.
 
-Languages and Tools:
+### Languages and Tools:
 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -20,6 +20,7 @@ Languages and Tools:
 </section>
   
 ---
+
 <section align="center">
 
 <a href="https://wakatime.com/@IdurarDev"><img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IdurarDev&layout=compact&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/></a>
@@ -29,7 +30,7 @@ Languages and Tools:
 
 </section>
   
-Github Profile Trophy
+### Github Profile Trophy
 ---
 <section align="center">
   
