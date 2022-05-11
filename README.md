@@ -40,8 +40,6 @@ I'm currently training as an application designer developer.
 <section align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=IdurarDev&theme=onestar&row=2&column=3)](https://github.com/IdurarDev)
-
-![Activity](https://activity-graph.herokuapp.com/graph?username=IdurarDev&area=true&hide_border=true&theme=dracula)
   
 </section>
 
