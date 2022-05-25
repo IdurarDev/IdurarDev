@@ -1,7 +1,7 @@
-# Hello everyone.
+# Hello
 
-My name is Hamid, I am developer Full-Stack.
-I'm currently training as an application designer developer.
+## My name is Hamid, I am developer Full-Stack.
+## I'm currently training as an application designer developer.
 
 ### Languages and Tools:
 
